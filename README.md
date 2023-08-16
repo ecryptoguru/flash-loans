@@ -1,6 +1,6 @@
 # Flash Loans Testing
 
-I have build an example where you can experience how we can start a flash loan. Note we won't be actually doing an arbitrage here, because finding profitable arbitrage opportunities is the hardest part and not related to the code, but will essentially learn how to execute a flash loan.
+Learn how to execute a flash loan with my new example! You'll get hands-on experience with the code and understand the process without having to worry about finding profitable arbitrage opportunities(Those are generally trade secrets). Check out the codes...
 
 Try running some of the following tasks:
 
