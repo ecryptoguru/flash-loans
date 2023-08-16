@@ -1,6 +1,6 @@
 # Flash Loans Testing
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+I have build an example where you can experience how we can start a flash loan. Note we won't be actually doing an arbitrage here, because finding profitable arbitrage opportunities is the hardest part and not related to the code, but will essentially learn how to execute a flash loan.
 
 Try running some of the following tasks:
 
