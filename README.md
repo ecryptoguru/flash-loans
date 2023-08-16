@@ -5,9 +5,11 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
+mkdir flash-loans
+cd flash-loans
+npm init --yes
+npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
+npx hardhat
+npm install @openzeppelin/contracts @aave/core-v3 dotenv
 npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
 ```
